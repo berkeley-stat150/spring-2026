@@ -3,7 +3,7 @@ title: "Stat 150: Stochastic Processes"
 subtitle: "UC Berkeley, Spring 2026"
 ---
 
-Stochastic Processes (Stat 150) uses [bcourses](https://bcourses.berkeley.edu/courses/1551415) in Spring 2026.
+Stochastic Processes (Stat 150) uses [bCourses](https://bcourses.berkeley.edu/courses/1551415) in Spring 2026.
 
 ## Course Topics
 
